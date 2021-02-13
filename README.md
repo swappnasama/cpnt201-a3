@@ -4,9 +4,9 @@ Creating a logo design for Beautiful Homes interior Designer website. Implemente
 
 **Author and Repo maintainer:** Swapna Sama
 
-**GH repo :** 
+**GH repo :** [https://github.com/swappnasama/cpnt201-a3.git](https://github.com/swappnasama/cpnt201-a3.git).
 
-**GH Pages site :** 
+**GH Pages site :** [https://swappnasama.github.io/cpnt201-a3/](https://swappnasama.github.io/cpnt201-a3/).
 
 **Discription :**
 
