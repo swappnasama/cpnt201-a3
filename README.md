@@ -14,4 +14,4 @@ Please click on the radio buttons to apply the color scheme. Change of color sch
 
 ## Attributions :
   - Pain brush icon is by [svgrepo.com](https://www.svgrepo.com/).
-  - Logo is created with the use of [Figma](https://www.figma.com/).
+  - Logo is created with the help of [Figma](https://www.figma.com/).
