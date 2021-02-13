@@ -1,0 +1,115 @@
+/*Reset CSS*/
+body{
+  margin: 0;
+  padding: 0;
+
+  font-family: 'Montserrat', sans-serif;
+  background-color: #dc7633;
+
+  color: white;
+}
+/*main css*/
+main{
+  margin: 0 auto;
+
+  text-align: center;
+}
+/*Logo styles*/
+.logo{
+  width: 50%;
+}
+article{
+  width: 100vw;
+  max-width: 100%;
+  height: 100vh;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+h1{
+  font-size: 48px;
+  margin-top: 0;
+}
+.color-scheme{
+  margin: 1rem 0;
+}
+.color-scheme label{
+  margin: .5rem;
+
+  font-weight: 500;
+}
+/*Frame arround the logo styles*/
+#rectangle-frame{
+  fill:#fff; 
+  
+}
+/*Cricle styles*/
+#circle{
+  fill:#FFD05B;
+}
+/* Home symbol styles */
+#home{
+  fill:#000;
+  stroke:#000;
+  stroke-width:2;
+}
+/* pain brush styles */
+#brush-handle{
+  fill:#324A5E;
+}
+#brush-center{
+  fill:#fff;
+}
+#brush-center-lines{
+  fill:#E6E9EE;
+}
+#brush-top{
+  fill:#FF7058;
+}
+#brush-handle-dot{
+fill:#FD8469;
+}
+/* logo text styles */
+#interior-designer-text{
+  fill:#F01919;
+}
+#beautiful-homes-text{
+  fill:#000;
+}
+/* Gradient color schme styles */
+#lineargarient-circle{
+  display: none;
+
+  fill:url('#circle-gradient');
+}
+#brushtop-gradient{
+  display: none;
+
+  fill:url('#brush-gradient');
+}
+#beautiful-homes-gradient{
+  display: none;
+  
+  fill:url('#text-gradient');
+}
+/* reseting solor scheme styles */
+.show{
+  display: block !important;
+}
+.hide{
+  display: none !important;
+}
+/* filter color scheme styles  */
+.multicolor{
+  fill:rgba(255, 112, 88, 1) !important;
+  filter: blur(1px);
+}
+.multicolor-brush{
+  fill:rgba(234, 238, 17, 1) !important;
+  filter: opacity(75%);
+}
+.shadow-text{
+  filter:drop-shadow(2px 3px 2px  #80868B);
+}
